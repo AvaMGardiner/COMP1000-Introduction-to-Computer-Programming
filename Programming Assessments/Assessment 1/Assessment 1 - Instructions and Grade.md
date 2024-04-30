@@ -25,31 +25,40 @@ For a pass mark, you must:
 - the leftmost edge of the rectangle just touches the left wall and the topmost edge of the rectangle just touches the ceiling of the display window.
 - move the rectangle vertically from top to bottom 1 pixel at a time.
 
-*The most useful material for this part is the second half of FP and the first half of V&C.* Related tasks on the online-text are:
+*The most useful material for this part is the second half of FP and the first half of V&C.* 
 
-[Primitive Operations: Task 4 ](http://www.mattr.net.au/programming/primitive_operations.html)[Variables: Task 5](http://www.mattr.net.au/programming/variables.html)
+Related tasks on the online-text are:
 
+- Primitive Operations: Task 4
+- Variables: Task 5
+  
 **Credit Mark**
 
 For a credit mark, you must ensure that the rectangle size and position adjust if the programmer changes the window size. For example, your markers will modify your program so that it is 640 pixels wide and 360 pixels high (they will change your code) and your program must look exactly like it did before, just smaller on the screen. The rectangle must still start at the top left, but now it is half the size. It must still move down the window but now half-a-pixel at a time. If the aspect ratio of the screen changes from 16:9 then the square might not be a square!
 
-Note: don't try and use frameRate for this part, it won't work well. *The most useful material for this part is the first half of V&C.* Related tasks from the course material are:
+Note: don't try and use frameRate for this part, it won't work well. 
 
-Learning Processing: Example 4-5 [Variables: Task 6](http://www.mattr.net.au/programming/variables.html#timed_animated_blue_circle)
+*The most useful material for this part is the first half of V&C.* 
 
-**Distinction Mark** 
+Related tasks from the course material are:
+
+- Learning Processing: Example 4-5
+- Variables: Task 6 
+
+**Distinction Mark** 
 
 For a distinction-level mark, you must ensure that the rectangle will reverse its direction when it hits the bottom of the screen. Specifically, when the bottom-edge of the rectangle reaches the bottom of the window, the rectangle should change direction and start moving ![](Aspose.Words.21490295-5680-410f-acdd-076a1f77f904.002.png)*up* the window instead of down. The direction should reverse again when it hits the top of the window, etc.
 
-Note: frameRate is still a bad idea for this part as well, no matter what it seems. *The most useful material for this part is the second half of V&C (conditions).*
+Note: frameRate is still a bad idea for this part as well, no matter what it seems. 
+
+*The most useful material for this part is the second half of V&C (conditions).*
 
 **(High) Distinction Marks**
 
 For a high-distinction level mark, you must add two new features:
 
-You must stop and start the animation when the space key is pressed.
-
-You must have the animation occur in "steps" instead of being continuous. There should be exactly 8 equally spaced steps to get from the top of the screen to the bottom.
+- You must stop and start the animation when the space key is pressed.
+- You must have the animation occur in "steps" instead of being continuous. There should be exactly 8 equally spaced steps to get from the top of the screen to the bottom.
 
 Note: don't use frameRate here either.
 
@@ -59,27 +68,18 @@ You must submit your complete Processing sketch as a single pde file **ass1.pde*
 
 **Constraints**
 
-[Why do these exist?](https://www.inc.com/thomas-oppong/for-a-more-creative-brain-embrace-constraints.html)
+Why do these exist?
 
-You cannot use any extra processing libraries or plugins.
-
-You cannot use classes
-
-You cannot use multiple tabs or multiple files
-
-You cannot use transformations such as rotate,translate, scale You cannot use images
-
-You must submit a single pde file
+- You cannot use any extra processing libraries or plugins.
+- You cannot use classes
+- You cannot use multiple tabs or multiple files
+- You cannot use transformations such as rotate,translate, scale You cannot use images
+- You must submit a single pde file
 
 **In Case of Faulty Submission**
 
-[Unfortunately, we can't accept re-submissions if you submit your assignment incorrectly](https://www.wikihow.com/Buy-More-Time-on-an-Overdue-Assignment). If you submit an empty file, the wrong file, a zip file, a file in the wrong format, etc - you will get zero marks. It is your responsibility to check your submission prior to the due date. Any and all submissions made after the due date will have a late penalty applied (as specified in the unit guide) unless a valid special consideration request has been approved.
+<u>Unfortunately, we can't accept re-submissions if you submit your assignment incorrectly.</u> If you submit an empty file, the wrong file, a zip file, a file in the wrong format, etc - you will get zero marks. It is your responsibility to check your submission prior to the due date. Any and all submissions made after the due date will have a late penalty applied (as specified in the unit guide) unless a valid special consideration request has been approved.
 
-**Example in Action**
-
-[assign1_demo.mp4](https://ilearn.mq.edu.au/pluginfile.php/6075154/mod_assign/intro/assign1_demo.mp4)
-
-Edit submission Remove submission
 
 **Feedback**
 
