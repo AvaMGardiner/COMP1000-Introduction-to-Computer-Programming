@@ -93,16 +93,17 @@ Edit submission Remove submission
 
 
 
-|**Basic Layout**|<p>none</p><p>***0 points***</p>|<span style="color:green">Display window size OR background colour correct ***10 points***</span>|<span style="color:green">Display window size AND background color correct ***20 points***</span>||||
+|**Basic Layout**|none <br> **0 points**|<font color="green">Display window size OR background colour correct <br> **10 points**</font>|<font color="green">Display window size AND background color correct <br> **20 points**</font>||||
 | - | - | :- | - | :- | :- | :- |
-|**Rectangle**|<p>none</p><p>***0 points***</p>|Attributes (color, diameter) and positioning of the rectangle is mostly correct. ***10 points***|<span style="color:green">Attributes (color, diameter) and positioning of the rectangle is completely correct.</span><br><span style="color:green">***20 points***</span>||||
-|**Movement**|<p>none</p><p>***0 points***</p>|The square moves correctly ***10 points***|||||
-|**Change size**|<p>none</p><p>***0 points***</p>|<span style="color:orange">Some things still correct when screen size changes ***5 points***</span>|<span style="color:green">All things still correct when the screen size changes. ***10 points***</span>||||
-|**Change aspect ratio**|<p>none</p><p>***0 points***</p>|<span style="color:orange">Some things still correct when the screen aspect ratio changes.</span><br><span style="color:orange">***5 points***</span>|<span style="color:green">All things still correct when the screen aspect ratio changes</span><br><span style="color:green">***10 points***</span>||||
-|**Direction Change**|<p>none</p><p>***0 points***</p>|<span style="color:green">Goes up when it hits the bottom</span><br><span style="color:green">***10 points***</span>|<span style="color:green">Goes back down when it reaches the top and goes on forever like this.</span><br><span style="color:green">***15 points***</span>||||
-|**Start stop**|<p>none</p><p>***0 points***</p>|<span style="color:orange">starts and stops when space key is pressed ***5 points***</span>|||||
-|**Moves in steps**|<p>none</p><p>***0 points***</p>|<span style="color:orange">In some fashion ***4 points***</span>|<span style="color:green">Correctly ***10 points***</span>||||
-|**Errors**|<span style="color:red">Major Error (including use of frameRate or delay) ***-20 points***</span>|<span style="color:red">Error (including incorrect filename) ***-10 points***</span>|<span style="color:orange">Minor error ***-5 points***</span>|<span style="color:green">No errors ***0 points***</span>|||
+|**Rectangle**|none <br> **0 points**|Attributes (color, diameter) and positioning of the rectangle is mostly correct. <br> **10 points**|<font color="green">Attributes (color, diameter) and positioning of the rectangle is completely correct. <br> **20 points**</font>||||
+|**Movement**|none <br> **0 points**|The square moves correctly <br> **10 points**|||||
+|**Change size**|none <br> **0 points**|<font color="orange">Some things still correct when screen size changes <br> **5 points**</font>|<font color="green">All things still correct when the screen size changes. <br> **10 points**</font>||||
+|**Change aspect ratio**|none <br> **0 points**|<font color="orange">Some things still correct when the screen aspect ratio changes. <br> **5 points**</font>|<font color="green">All things still correct when the screen aspect ratio changes <br> **10 points**</font>||||
+|**Direction Change**|none <br> **0 points**|<font color="green">Goes up when it hits the bottom <br> **10 points**</font>|<font color="green">Goes back down when it reaches the top and goes on forever like this. <br> **15 points**</font>||||
+|**Start stop**|none <br> **0 points**|<font color="orange">starts and stops when space key is pressed <br> **5 points**</font>|||||
+|**Moves in steps**|none <br> **0 points**|<font color="orange">In some fashion <br> **4 points**</font>|<font color="green">Correctly <br> **10 points**</font>||||
+|**Errors**|<font color="red">Major Error (including use of frameRate or delay) <br> **-20 points**</font>|<font color="red">Error (including incorrect filename) <br> **-10 points**</font>|<font color="orange">Minor error <br> **-5 points**</font>|<font color="green">No errors <br> **0 points**</font>|||
+
 
 
 [◄ General Discussion Forum](https://ilearn.mq.edu.au/mod/forum/view.php?id=5448156&forceview=1) Jump to... [Assignment 2 ►](https://ilearn.mq.edu.au/mod/assign/view.php?id=5448165&forceview=1)![](Aspose.Words.21490295-5680-410f-acdd-076a1f77f904.005.png)
