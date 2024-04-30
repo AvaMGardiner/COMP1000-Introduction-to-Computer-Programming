@@ -2,14 +2,16 @@
 
 **In this assignment we will begin creating an game called "leaning tower".**
 
-This game is much-like the "stacker" games you find in the arcades, but it plays horizontally instead of vertically. Concepts assessed
+This game is much-like the "stacker" games you find in the arcades, but it plays horizontally instead of vertically. 
+
+Concepts assessed
 
 1. Setting up a sketch in Processing
-1. Creating an animation
-1. Handling key events
-1. Using variables to change state of objects
-1. Problem-solving (having the animation happen in steps)
-1. Some use of conditions
+2. Creating an animation
+3. Handling key events
+4. Using variables to change state of objects
+5. Problem-solving (having the animation happen in steps)
+6. Some use of conditions
 
 In this assignment you must draw, and animate, a square traveling from the top of the screen to the bottom of the screen, then returning in the other direction when one of them hits the edge.
 
@@ -17,15 +19,11 @@ In this assignment you must draw, and animate, a square traveling from the top o
 
 For a pass mark, you must:
 
-display the correct background ( RGB 240-240-240),
-
-set the display window size to 1280 pixels wide and 720 pixels high,
-
-draw a 90x90 pixel rectangle (yes, that is a square but it might not be - see below) in the screen in the correct colour (RGB 255-147-79)
-
-the leftmost edge of the rectangle just touches the left wall and the topmost edge of the rectangle just touches the ceiling of the display window.
-
-move the rectangle vertically from top to bottom 1 pixel at a time.
+- display the correct background ( RGB 240-240-240),
+- set the display window size to 1280 pixels wide and 720 pixels high,
+- draw a 90x90 pixel rectangle (yes, that is a square but it might not be - see below) in the screen in the correct colour (RGB 255-147-79)
+- the leftmost edge of the rectangle just touches the left wall and the topmost edge of the rectangle just touches the ceiling of the display window.
+- move the rectangle vertically from top to bottom 1 pixel at a time.
 
 *The most useful material for this part is the second half of FP and the first half of V&C.* Related tasks on the online-text are:
 
