@@ -2,7 +2,7 @@
 
 We now build the remaining functionality of our stacker game. NB: If you did not do the HD part of assignment 1, you will not need to add it until you get to the D part of assignment 2.
 
-[demo.mov]
+<ins>demo.mov</ins>
 
 *NOTE: A worked solution to assignment one will be released in the next couple of days.*
 
@@ -40,7 +40,7 @@ You must submit your complete Processing sketch as a single pde file **ass2.pde*
 
 **Constraints**
 
-[Why do these exist?]
+<ins>Why do these exist?</ins>
 
 - You cannot use any extra processing libraries or plugins.
 - You cannot use classes!
@@ -50,31 +50,8 @@ You must submit your complete Processing sketch as a single pde file **ass2.pde*
 
 **In Case of Faulty Submission**
 
-[Unfortunately, we can't accept re-submissions if you submit your assignment incorrectly](https://www.wikihow.com/Buy-More-Time-on-an-Overdue-Assignment). If you submit an empty file, the wrong file, a zip file, a file in the wrong format, etc - you will get zero marks. It is your responsibility to check your submission prior to the due date. Any and all submissions made after the due date will have a late penalty applied (as specified in the unit guide) unless a valid special consideration request has been approved.
+<ins>Unfortunately, we can't accept re-submissions if you submit your assignment incorrectly</ins>. If you submit an empty file, the wrong file, a zip file, a file in the wrong format, etc - you will get zero marks. It is your responsibility to check your submission prior to the due date. Any and all submissions made after the due date will have a late penalty applied (as specified in the unit guide) unless a valid special consideration request has been approved.
 
 **Late penalty**
 
 A late penalty of 10% per day (or part thereof) applies to any late submissions without an approved special consideration request. Edit submission Remove submission
-
-**Feedback**
-
-**Grade** 100 / 100
-
-**Graded on** Tuesday, 2 June 2020, 4:19 PM **Graded by[** ](https://ilearn.mq.edu.au/user/view.php?id=288572&course=38098)![](Aspose.Words.514d4cdc-b33b-4e32-9e54-8d51945b2bbd.003.png)**Samantha Kuhn![](Aspose.Words.514d4cdc-b33b-4e32-9e54-8d51945b2bbd.004.png)
-
-**Grade breakdown**
-
-
-
-|**Grid**|<p>none</p><p>***0 points***</p>|<p>Grid draws correctly with window size 1280x720.</p><p>***20 points***</p>|||||
-| - | - | :- | :- | :- | :- | :- |
-|**Multiple Squares**|<p>none</p><p>***0 points***</p>|<p>Four squares moving as one created with loops</p><p>***10 points***</p>|<p>Direction reverses at the right time.</p><p>***20 points***</p>||||
-|**Key presses**|<p>none</p><p>***0 points***</p>|<p>One stack stops and another begins on space key (must use arrays)</p><p>***10 points***</p>|<p>Stopping is correct and next is in correct place. (must use arrays)</p><p>***20 points***</p>|<p>This works multiple times (must use arrays)</p><p>***30 points***</p>|||
-|**Make it a game**|<p>none</p><p>***0 points***</p>|<p>stacks shrink in some way if they stop at the wrong place</p><p>***10 points***</p>|Stacks shrink in some way when they stop at the wrong place (must have stepping) ***20 points***|<p>Stacks shrink correctly when they stop at the wrong place (must have stepping)</p><p>***30 points***</p>|||
-|**Errors**|major error ***-20 points***|error (including incorrect filename) ***-10 points***|small error ***-5 points***|no errors ***0 points***|||
-
-[◄ Assignment 1 ](https://ilearn.mq.edu.au/mod/assign/view.php?id=5448161&forceview=1)Jump to...
-
-[assignment 1 sample solution ►](https://ilearn.mq.edu.au/mod/resource/view.php?id=5694969&forceview=1)
-
-![](Aspose.Words.514d4cdc-b33b-4e32-9e54-8d51945b2bbd.005.png)
