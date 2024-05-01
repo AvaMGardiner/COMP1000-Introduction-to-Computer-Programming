@@ -1,8 +1,11 @@
+# Assignment 2
+
 **Due:** Monday, 1 June 2020, 9:00 AM
 
 We now build the remaining functionality of our stacker game. NB: If you did not do the HD part of assignment 1, you will not need to add it until you get to the D part of assignment 2.
 
-<ins>demo.mov</ins>
+
+- **DEMO:** https://github.com/AvaMGardiner/COMP1000-Introduction-to-Computer-Programming/assets/168320367/de965d12-93c2-4a4d-a466-62fc5ebf4660
 
 *NOTE: A worked solution to assignment one will be released in the next couple of days.*
 
@@ -54,4 +57,4 @@ You must submit your complete Processing sketch as a single pde file **ass2.pde*
 
 **Late penalty**
 
-A late penalty of 10% per day (or part thereof) applies to any late submissions without an approved special consideration request. Edit submission Remove submission
+A late penalty of 10% per day (or part thereof) applies to any late submissions without an approved special consideration request. 
