@@ -10,6 +10,7 @@
 
 | Category          | Description                                                        | Points |
 |-------------------|--------------------------------------------------------------------|--------|
+|||
 | Basic Layout      |                                                                    |        |
 |                   | none                                                               | 0      |
 |                   | Display window size OR background colour correct                   | 10     |
