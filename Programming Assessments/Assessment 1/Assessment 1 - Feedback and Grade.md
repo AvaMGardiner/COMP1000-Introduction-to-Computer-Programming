@@ -6,9 +6,8 @@
 >
 > **Graded by** Samantha Kuhn
 
-| **Marking Rubric** | | | |
-| --- | --- | --- | --- |
 | **Basic Layout** | none<br>**0 points** | Display window size OR background colour correct<br>**10 points** | Display window size AND background color correct<br>**20 points** |
+| --- | --- | --- | --- |
 | **Rectangle** | none<br>**0 points** | Attributes (color, diameter) and positioning of the rectangle is mostly correct.<br>**10 points** | Attributes (color, diameter) and positioning of the rectangle is completely correct.<br>**20 points** |
 | **Movement** | none<br>**0 points** | The square moves correctly<br>**10 points** | |
 | **Change size** | none<br>**0 points** | Some things still correct when screen size changes<br>**5 points** | All things still correct when the screen size changes.<br>**10 points** |
