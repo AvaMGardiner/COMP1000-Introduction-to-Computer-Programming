@@ -1,1 +1,1 @@
-# COMP1000 Introduction to Computer Programming
+# COMP1000: Introduction to Computer Programming
