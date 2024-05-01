@@ -78,7 +78,7 @@ Why do these exist?
 
 **In Case of Faulty Submission**
 
-<u>Unfortunately, we can't accept re-submissions if you submit your assignment incorrectly.</u> If you submit an empty file, the wrong file, a zip file, a file in the wrong format, etc - you will get zero marks. It is your responsibility to check your submission prior to the due date. Any and all submissions made after the due date will have a late penalty applied (as specified in the unit guide) unless a valid special consideration request has been approved.
+<ins>Unfortunately, we can't accept re-submissions if you submit your assignment incorrectly.</ins> If you submit an empty file, the wrong file, a zip file, a file in the wrong format, etc - you will get zero marks. It is your responsibility to check your submission prior to the due date. Any and all submissions made after the due date will have a late penalty applied (as specified in the unit guide) unless a valid special consideration request has been approved.
 
 
 **Feedback**
