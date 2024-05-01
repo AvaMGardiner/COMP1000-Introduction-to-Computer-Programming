@@ -1,3 +1,5 @@
+##Assignment 1
+
 **Due:** Monday, 13 April 2020, 9:00 AM
 
 **In this assignment we will begin creating an game called "leaning tower".**
@@ -81,5 +83,4 @@ You must submit your complete Processing sketch as a single pde file **ass1.pde*
 <ins>Unfortunately, we can't accept re-submissions if you submit your assignment incorrectly.</ins> If you submit an empty file, the wrong file, a zip file, a file in the wrong format, etc - you will get zero marks. It is your responsibility to check your submission prior to the due date. Any and all submissions made after the due date will have a late penalty applied (as specified in the unit guide) unless a valid special consideration request has been approved.
 
 **Example in Action**
-
-<ins>assign1_demo.mp4</ins>
+- https://github.com/AvaMGardiner/COMP1000-Introduction-to-Computer-Programming/assets/168320367/1db9bc03-0dd1-42d9-8120-affdb0144e2d
