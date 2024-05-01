@@ -29,8 +29,8 @@ For a pass mark, you must:
 
 Related tasks on the online-text are:
 
-- Primitive Operations: Task 4
-- Variables: Task 5
+- <ins>Primitive Operations: Task 4</ins>
+- <ins>Variables: Task 5</ins>
   
 **Credit Mark**
 
@@ -42,8 +42,8 @@ Note: don't try and use frameRate for this part, it won't work well.
 
 Related tasks from the course material are:
 
-- Learning Processing: Example 4-5
-- Variables: Task 6 
+- <ins>Learning Processing: Example 4-5</ins>
+- <ins>Variables: Task 6 </ins>
 
 **Distinction Mark** 
 
@@ -68,7 +68,7 @@ You must submit your complete Processing sketch as a single pde file **ass1.pde*
 
 **Constraints**
 
-Why do these exist?
+<ins>Why do these exist?</ins>
 
 - You cannot use any extra processing libraries or plugins.
 - You cannot use classes
@@ -78,30 +78,8 @@ Why do these exist?
 
 **In Case of Faulty Submission**
 
-<p style="color:red"><ins>Unfortunately, we can't accept re-submissions if you submit your assignment incorrectly.</ins></p> If you submit an empty file, the wrong file, a zip file, a file in the wrong format, etc - you will get zero marks. It is your responsibility to check your submission prior to the due date. Any and all submissions made after the due date will have a late penalty applied (as specified in the unit guide) unless a valid special consideration request has been approved.
+<ins>Unfortunately, we can't accept re-submissions if you submit your assignment incorrectly.</ins> If you submit an empty file, the wrong file, a zip file, a file in the wrong format, etc - you will get zero marks. It is your responsibility to check your submission prior to the due date. Any and all submissions made after the due date will have a late penalty applied (as specified in the unit guide) unless a valid special consideration request has been approved.
 
+**Example in Action**
 
-**Feedback**
-
-**Grade** 74 / 100
-
-**Graded on** Thursday, 23 April 2020, 2:42 PM **Graded by[** ](https://ilearn.mq.edu.au/user/view.php?id=288572&course=38098)![](Aspose.Words.21490295-5680-410f-acdd-076a1f77f904.003.png)**Samantha Kuhn![](Aspose.Words.21490295-5680-410f-acdd-076a1f77f904.004.png)
-
-**Grade breakdown**
-
-
-
-|**Basic Layout**|none <br> **0 points**|<font color="green">Display window size OR background colour correct <br> **10 points**</font>|<font color="green">Display window size AND background color correct <br> **20 points**</font>||||
-| - | - | :- | - | :- | :- | :- |
-|**Rectangle**|none <br> **0 points**|Attributes (color, diameter) and positioning of the rectangle is mostly correct. <br> **10 points**|<font color="green">Attributes (color, diameter) and positioning of the rectangle is completely correct. <br> **20 points**</font>||||
-|**Movement**|none <br> **0 points**|The square moves correctly <br> **10 points**|||||
-|**Change size**|none <br> **0 points**|<font color="orange">Some things still correct when screen size changes <br> **5 points**</font>|<font color="green">All things still correct when the screen size changes. <br> **10 points**</font>||||
-|**Change aspect ratio**|none <br> **0 points**|<font color="orange">Some things still correct when the screen aspect ratio changes. <br> **5 points**</font>|<font color="green">All things still correct when the screen aspect ratio changes <br> **10 points**</font>||||
-|**Direction Change**|none <br> **0 points**|<font color="green">Goes up when it hits the bottom <br> **10 points**</font>|<font color="green">Goes back down when it reaches the top and goes on forever like this. <br> **15 points**</font>||||
-|**Start stop**|none <br> **0 points**|<font color="orange">starts and stops when space key is pressed <br> **5 points**</font>|||||
-|**Moves in steps**|none <br> **0 points**|<font color="orange">In some fashion <br> **4 points**</font>|<font color="green">Correctly <br> **10 points**</font>||||
-|**Errors**|<font color="red">Major Error (including use of frameRate or delay) <br> **-20 points**</font>|<font color="red">Error (including incorrect filename) <br> **-10 points**</font>|<font color="orange">Minor error <br> **-5 points**</font>|<font color="green">No errors <br> **0 points**</font>|||
-
-
-
-[◄ General Discussion Forum](https://ilearn.mq.edu.au/mod/forum/view.php?id=5448156&forceview=1) Jump to... [Assignment 2 ►](https://ilearn.mq.edu.au/mod/assign/view.php?id=5448165&forceview=1)![](Aspose.Words.21490295-5680-410f-acdd-076a1f77f904.005.png)
+<ins>assign1_demo.mp4</ins>
