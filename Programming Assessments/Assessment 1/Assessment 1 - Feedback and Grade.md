@@ -17,3 +17,4 @@
 |**Moves in steps**|<p>none</p><p>***0 points***</p>|In some fashion ***4 points***|Correctly ***10 points***||||
 |**Errrors**|Major Error (including use of frameRate or delay) ***-20 points***|Error (including incorrect filename) ***-10 points***|Minor error ***-5 points***|No errors ***0 points***|||
 
+$${\color{red}Red}$$
