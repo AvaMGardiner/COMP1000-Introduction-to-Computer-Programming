@@ -1,10 +1,8 @@
-﻿Mark as done![](Aspose.Words.514d4cdc-b33b-4e32-9e54-8d51945b2bbd.001.png)
-
 **Due:** Monday, 1 June 2020, 9:00 AM
 
 We now build the remaining functionality of our stacker game. NB: If you did not do the HD part of assignment 1, you will not need to add it until you get to the D part of assignment 2.
 
-[demo.mov](https://ilearn.mq.edu.au/pluginfile.php/6075158/mod_assign/intro/demo.mov)
+[demo.mov]
 
 *NOTE: A worked solution to assignment one will be released in the next couple of days.*
 
@@ -34,23 +32,21 @@ Because the squares move in steps,there will always be a whole number of squares
 
 Hint: Again, this is \_much\_ easier with the right variables. We recommend keeping one variable to remember where the first stack stopped, and an array of integers that tell you ... something else useful :)
 
-The most useful module is *all of them*. This advanced task requires careful use of many features. **Submission**
+The most useful module is *all of them*. This advanced task requires careful use of many features. 
+
+**Submission**
 
 You must submit your complete Processing sketch as a single pde file **ass2.pde** by the due date.
 
 **Constraints**
 
-[Why do these exist?](https://www.inc.com/thomas-oppong/for-a-more-creative-brain-embrace-constraints.html) 
+[Why do these exist?]
 
-You cannot use any extra processing libraries or plugins.
-
-You cannot use classes![](Aspose.Words.514d4cdc-b33b-4e32-9e54-8d51945b2bbd.002.png)
-
-You cannot use multiple tabs or multiple files
-
-You cannot use transformations such as rotate,translate, scale You cannot use images
-
-You must submit a single pde file
+- You cannot use any extra processing libraries or plugins.
+- You cannot use classes!
+- You cannot use multiple tabs or multiple files
+- You cannot use transformations such as rotate,translate, scale You cannot use images
+- You must submit a single pde file
 
 **In Case of Faulty Submission**
 
