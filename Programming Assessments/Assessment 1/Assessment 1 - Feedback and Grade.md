@@ -6,8 +6,9 @@
 >
 > **Graded by** Samantha Kuhn
 
-|**Basic Layout** | none<br>0 points | Display window size OR background color correct<br>10 points | Display window size AND background color correct<br>20 points |
+
 | :--- | :--- | :--- | :--- | 
+|**Basic Layout** | none<br>0 points | Display window size OR background color correct<br>10 points | Display window size AND background color correct<br>20 points |
 | **Rectangle** | none<br>0 points | Attributes (color, diameter) and positioning of the rectangle are mostly correct.<br>10 points | Attributes (color, diameter) and positioning of the rectangle are completely correct.<br>20 points |
 | **Movement** | none<br>0 points | The square moves correctly<br>10 points | |
 | **Change size** | none<br>0 points | Some things are still correct when screen size changes<br>5 points | All things are still correct when the screen size changes.<br>10 points |
