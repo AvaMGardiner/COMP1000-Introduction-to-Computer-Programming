@@ -19,9 +19,9 @@ In this assignment you must draw, and animate, a square traveling from the top o
 
 For a pass mark, you must:
 
-- Display the correct background ( RGB 240-240-240),
+- Display the correct background (**RGB 240-240-240**),
 - Set the display window size to 1280 pixels wide and 720 pixels high,
-- Draw a 90x90 pixel rectangle (yes, that is a square but it might not be - see below) in the screen in the correct colour (RGB 255-147-79)
+- Draw a 90x90 pixel rectangle (yes, that is a square but it might not be - see below) in the screen in the correct colour (**RGB 255-147-79**)
 - The leftmost edge of the rectangle just touches the left wall and the topmost edge of the rectangle just touches the ceiling of the display window.
 - Move the rectangle vertically from top to bottom 1 pixel at a time.
 
