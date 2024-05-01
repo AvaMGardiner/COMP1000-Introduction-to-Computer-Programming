@@ -1,6 +1,8 @@
-##Assignment 1
+## Assignment 1
 
 **Due:** Monday, 13 April 2020, 9:00 AM
+
+---
 
 **In this assignment we will begin creating an game called "leaning tower".**
 
