@@ -7,7 +7,7 @@
 > **Graded by** Samantha Kuhn
 
 
-| First Header         | Second Header                                                                       | Third Header                                                                   | Fourth Header                                                                  |
+|       |                                                                        |                                                                   |                                                               |
 |----------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | Basic Layout         | none<br>**0 points**<br>Display window size OR background colour correct<br>**10 points**<br>Display window size AND background color correct<br>**20 points** |                                                                                   |                                                                                |
 | ---                  | ---                                                                                 | ---                                                                            | ---                                                                            |
