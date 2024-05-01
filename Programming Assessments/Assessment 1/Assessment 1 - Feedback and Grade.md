@@ -6,7 +6,7 @@
 >
 > **Graded by** Samantha Kuhn
 
-
+|||||
 | :--- | :--- | :--- | :--- |
 | **Basic Layout** | none<br>0 points | Display window size OR background colour correct<br>10 points | Display window size AND background color correct<br>20 points |
 | **Rectangle** | none<br>0 points | Attributes (color, diameter) and positioning of the rectangle is mostly correct.<br>10 points | Attributes (color, diameter) and positioning of the rectangle is completely correct.<br>20 points |
@@ -17,4 +17,3 @@
 | **Start stop** | none<br>0 points | starts and stops when space key is pressed<br>5 points | |
 | **Moves in steps** | none<br>0 points | In some fashion<br>4 points | Correctly<br>10 points |
 | **Errors** | Major Error (including use of frameRate or delay)<br>-20 points | Error (including incorrect filename)<br>-10 points | Minor error<br>-5 points | No errors<br>0 points |
-|||||
