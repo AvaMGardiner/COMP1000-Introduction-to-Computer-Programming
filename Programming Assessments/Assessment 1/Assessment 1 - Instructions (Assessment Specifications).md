@@ -47,7 +47,7 @@ Related tasks from the course material are:
 
 **Distinction Mark** 
 
-For a distinction-level mark, you must ensure that the rectangle will reverse its direction when it hits the bottom of the screen. Specifically, when the bottom-edge of the rectangle reaches the bottom of the window, the rectangle should change direction and start moving ![](Aspose.Words.21490295-5680-410f-acdd-076a1f77f904.002.png)*up* the window instead of down. The direction should reverse again when it hits the top of the window, etc.
+For a distinction-level mark, you must ensure that the rectangle will reverse its direction when it hits the bottom of the screen. Specifically, when the bottom-edge of the rectangle reaches the bottom of the window, the rectangle should change direction and start moving *up* the window instead of down. The direction should reverse again when it hits the top of the window, etc.
 
 Note: frameRate is still a bad idea for this part as well, no matter what it seems. 
 
