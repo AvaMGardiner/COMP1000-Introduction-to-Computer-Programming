@@ -12,19 +12,19 @@
 |-------------------|--------------------------------------------------------------------|--------|
 |||
 | Grid              |                                                                    |        |
-|                   | none                                                               | 0      |
+|                   | None                                                               | 0      |
 |                   | **Grid draws correctly with window size 1280x720**                     | **20**     |
 | Multiple Squares |                                                                    |        |
-|                   | none                                                               | 0      |
+|                   | None                                                               | 0      |
 |                   | Four squares moving as one created with loops                      | 10     |
 |                   | **Direction reverses at the right time**                               | **20**     |
 | Key presses       |                                                                    |        |
-|                   | none                                                               | 0      |
+|                   | None                                                               | 0      |
 |                   | One stack stops and another begins on space key (must use arrays)  | 10     |
 |                   | Stopping is correct and next is in correct place (must use arrays) | 20     |
 |                   | **This works multiple times (must use arrays)**                        | **30**     |
 | Make it a game   |                                                                    |        |
-|                   | none                                                               | 0      |
+|                   | None                                                               | 0      |
 |                   | Stacks shrink in some way if they stop at the wrong place          | 10     |
 |                   | Stacks shrink in some way when they stop at the wrong place (must have stepping) | 20 |
 |                   | **Stacks shrink correctly when they stop at the wrong place (must have stepping)** | **30** |
