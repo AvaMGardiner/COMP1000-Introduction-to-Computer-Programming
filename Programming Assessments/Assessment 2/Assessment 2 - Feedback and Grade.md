@@ -8,7 +8,7 @@
 
 ## Grade breakdown
 
-| Category          | Description                                                        | Points |
+| Criteria          | Description                                                        | Points |
 |-------------------|--------------------------------------------------------------------|--------|
 |||
 | Grid              |                                                                    |        |
