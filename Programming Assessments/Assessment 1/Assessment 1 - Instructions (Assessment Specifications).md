@@ -1,4 +1,4 @@
-## Assignment 1
+# Assignment 1
 
 **Due:** Monday, 13 April 2020, 9:00 AM
 
