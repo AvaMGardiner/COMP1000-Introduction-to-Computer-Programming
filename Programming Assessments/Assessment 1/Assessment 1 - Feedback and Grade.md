@@ -6,8 +6,8 @@
 >
 > **Graded by** Samantha Kuhn
 
-| First Header        | Second Header                                                                       |
-|---------------------|-------------------------------------------------------------------------------------|
+
+|---------------------|--------------------------|-------------------------------------------------------------------|
 | **Basic Layout**    | none<br>**0 points**<br> | Display window size OR background colour correct<br>**10 points** | <br>Display window size AND background color correct<br>**20 points** |
 | ---                 | ---                                                                                 |
 | **Rectangle**       | none<br>**0 points**<br>Attributes (color, diameter) and positioning of the rectangle is mostly correct.<br>**10 points**<br>Attributes (color, diameter) and positioning of the rectangle is completely correct.<br>**20 points** |
