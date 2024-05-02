@@ -12,6 +12,6 @@ I delved into the concept of program correctness and explored the differences be
 
 The practical work in this unit involved programming in the Processing language (http://processing.org), which has given me experience with features that are used in many modern programming languages.
 
-**Programming Assessment**
+**Programming Assessments**
 
 Throughout the semester, I was assigned two staged programming tasks. These tasks required me to apply all the skills I had acquired from the lectures and tutorials to develop simple game.
