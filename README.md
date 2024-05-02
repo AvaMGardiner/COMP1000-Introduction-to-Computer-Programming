@@ -14,4 +14,4 @@ The practical work in this unit involved programming in the Processing language 
 
 **Programming Assessment**
 
-Over the course of the semester, I was assigned two programming projects. The application of the skills and knowledge acquired from the lectures and tutorials throughout the semester was necessary for the creation of a simple game.
+Throughout the semester, I was assigned two staged programming tasks. These tasks required me to apply all the skills I had acquired from the lectures and tutorials to develop simple game.
