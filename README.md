@@ -10,4 +10,4 @@ I delved into the concept of program correctness and explored the differences be
 
 **Technology Used**
 
-The practical work in <ins>COMP1000: Introduction to Computer Programming</ins> involved programming in the Processing language (http://processing.org), which has given me experience with features that are used in many modern programming languages.
+The practical work in this unit involved programming in the Processing language (http://processing.org), which has given me experience with features that are used in many modern programming languages.
